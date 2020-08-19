@@ -1,42 +1,38 @@
 # Steps to Site Builder Certification
 
-![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Site-Builder-Steps.png)
+![Steps to Acquia Certified Drupal 9 Site Builder Exam](.gitbook/assets/site-builder-d9-steps.png)
 
 **Newcomer :** You are absolutely new to Drupal
 
-**D7 Site Builder** : You have Drupal 7 Site Building experience, but new to Drupal 8
+**Learner** : You have Site Building experience with previous versions of Drupal, but new to Drupal 9
 
-**D8 Site Builder** : You have Drupal 8 Site Building experience, wish to get certified.
+**Experienced** : You have Drupal 9 Site Building experience, wish to get certified.
 
-## Take Acquia Academy 100 Level Courses
+## Take Acquia Academy Basic Level Courses
 
-As a Newcomer to Drupal 8, take introductory courses in Acquia Academy. We have three courses to get you started on your Drupal 8 journey.
+As a Newcomer to Drupal, take introductory courses in Acquia Academy. We have three courses to get you started on your Drupal journey.
 
-● Introduction to Drupal 8
+● Introduction to Drupal
 
-● Building a Basic Site Using Drupal 8
+● Building a Basic Site Using Drupal
 
-● Extending and Managing a Drupal 8 Site
+● Extending and Managing a Drupal Site
 
 After taking the courses, build a small website on your own to reinforce the concepts learned in the courses.
 
 ## Take Acquia Academy 200 Level Courses
 
-For the Site Builder path, the next step is to take a comprehensive 200 Level course in Acquia Academy.
+For the Site Builder path, the next step is to take a intermediate Level course in Acquia Academy.
 
-* Building Websites with Drupal 8
+* Building Websites with Drupal 
 
 If you have previous experience in Drupal 7 Site Building, you should start here. The course covers advanced site building concepts and also contains hands-on exercises to help you build a Drupal 8 based website.
 
-You can access Drupal 8 preparatory courses on Acquia Academy, which you can find here:
+You can access Drupal preparatory courses on Acquia Academy, which you can find here:
 
 [https://acquiacademy.com/](https://acquiacademy.com/)
 
 You can access these courses for free and review them as many times as you like. Many of Acquia Academy courses are available, and if you are in an Acquia enablement or training program, you have been assigned the courses you most require to obtain an initial certification.
-
-Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture.Those with more exposure to Drupal 8 concepts, or with demonstrated development experience with Drupal 7, may skip the D8 100-level courses.
-
-![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/developer-learning-paths.png)
 
 ## Gain Practical Experience
 
@@ -56,5 +52,5 @@ At this stage, you should be ready to take the exam! Follow the 'Schedule A Test
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](.gitbook/assets/main-page-footer.png)
 
