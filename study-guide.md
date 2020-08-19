@@ -2,7 +2,7 @@
 
 ## Study Guide
 
-| Check out the new [**Drupal 8 User Guide**](https://www.drupal.org/docs/user_guide/en/index.html) for understanding key concepts |
+| Check out the new [**Drupal User Guide**](https://www.drupal.org/docs/user_guide/en/index.html) for understanding key concepts |
 | :--- |
 
 
@@ -10,7 +10,6 @@
 
 The application of Drupal 8 concepts is the hands-on practice of site building. The courses provide some opportunity to practice doing the tasks of site building alongside the videos, but you will need a little more practice than that to pass the exam. Some suggested resources are below, to give you a better understanding of the role of site builder.
 
-* Site Building Overview - [https://www.drupal.org/site-building](https://www.drupal.org/site-building)
 * Webinar: [10 Things Site Builders Need to Know Before Leaping into Drupal 8](https://www.acquia.com/resources/webinars/10-things-site-builders-need-know-leaping-drupal-8)
 
 #### 1. Understanding Drupal
@@ -19,9 +18,9 @@ The application of Drupal 8 concepts is the hands-on practice of site building. 
 
 1.2. Demonstrate the understanding of Drupal jargon and terminology
 
-| Understanding Drupal | [https://www.drupal.org/docs/8/understanding-drupal](https://www.drupal.org/docs/8/understanding-drupal) |
+| Understanding Drupal | [https://www.drupal.org/docs/understanding-drupal](https://www.drupal.org/docs/understanding-drupal) |
 | :--- | :--- |
-| Drupal Version Numbers | [https://www.drupal.org/docs/8/understanding-drupal-version-numbers](https://www.drupal.org/docs/8/understanding-drupal-version-numbers) |
+| Drupal Version Numbers | [https://www.drupal.org/docs/8/understanding-drupal-version-numbers](https://www.drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers) |
 | Drupal System Requirements | [https://www.drupal.org/docs/8/system-requirements](https://www.drupal.org/docs/8/system-requirements) |
 | Drupal General Concepts | [https://www.drupal.org/node/19828](https://www.drupal.org/node/19828) |
 
