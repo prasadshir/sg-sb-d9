@@ -2,7 +2,7 @@
 
 ## Key Information
 
-**Exam Name** : Acquia Certified Drupal 8 Site Builder
+**Exam Name** : Acquia Certified Drupal 9 Site Builder
 
 **Exam Duration**: 75 minutes
 
@@ -12,13 +12,13 @@
 
 ## About the exam
 
-Acquia Certified Drupal 8 Site Builder exam is to validate the skills and knowledge of a Drupal Site Builder in the areas of using Drupal features, Content and User Management, Content Modeling, Site Display, Community and Contributed Projects, Module and Theme Management, Security, and Performance.
+Acquia Certified Drupal 9 Site Builder exam is to validate the skills and knowledge of a Drupal Site Builder in the areas of using Drupal features, Content and User Management, Content Modeling, Site Display, Community and Contributed Projects, Module and Theme Management, Security, and Performance.
 
-Acquia's Drupal 8 Site Builder exam can be taken in a testing center, or in your office, provided certain environmental details can be guaranteed \(such as a webcam on the testing computer\). Do not be discouraged if you do not pass the exam the first time. Many do not.
+Acquia's Drupal 9 Site Builder exam can be taken in a testing center, or in your office, provided certain environmental details can be guaranteed \(such as a webcam on the testing computer\). Do not be discouraged if you do not pass the exam the first time. Many do not.
 
 This exam validates a candidate’s ability to:
 
-* Plan, build, and manage Drupal 8-based solutions
+* Plan, build, and manage Drupal 9-based solutions
 * Understand the core Drupal practices for site building
 * Develop and maintain applications using Drupal site building tools
 * Install and configure new Drupal modules and themes
@@ -42,5 +42,5 @@ The basic knowledge and skills required at this level should include all of the 
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](.gitbook/assets/main-page-footer.png)
 
