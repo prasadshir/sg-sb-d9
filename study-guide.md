@@ -6,23 +6,7 @@
 | :--- |
 
 
-### Tools to Know for Drupal Development
-
-#### **Drupal Coding Standards**
-
-This is an overview of coding best practices and standards as they are applied in the Drupal community.
-
-[https://www.drupal.org/docs/develop/standards](https://www.drupal.org/docs/develop/standards)
-
-These coding standards, detailed for every area in which code might be produced during Drupal development, represent the broadly established best practices of the community. Adhering to these best practices will make development go more smoothly, and your contributions to Drupal core or modules more readily and easily accepted. If you are working on a project with Acquia technical support, these are the coding standards to which pull requests must adhere.
-
-#### Drush
-
-While not required to pass the Site Builder exam, drush is considered a basic skill for Drupal site development.
-
-[https://github.com/drush-ops/drush](https://github.com/drush-ops/drush)
-
-### **Practice Skills Application**
+**Practice Skills Application**
 
 The application of Drupal 8 concepts is the hands-on practice of site building. The courses provide some opportunity to practice doing the tasks of site building alongside the videos, but you will need a little more practice than that to pass the exam. Some suggested resources are below, to give you a better understanding of the role of site builder.
 
