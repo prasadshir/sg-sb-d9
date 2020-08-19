@@ -17,43 +17,37 @@ You may use the following table to carry out your self-evaluation.
 | Domain | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
 | **1** | **Understanding Drupal** |  |
-| 1.1 | Demonstrate the ability to explain the distinct and differentiating features of Drupal. |  |
-| 1.2 | Demonstrate the understanding of Drupal jargon and terminology. |  |
-| **2** | **Working with a Drupal site** | \*\*\*\* |
-| 2.1 | Given a scenario, determine how administration tools are used for site management. |  |
-| 2.2 | Given a scenario, demonstrate ability to configure user accounts. |  |
-| 2.3 | Given a scenario of a completed content item, identify which elements are taxonomy terms, image fields or text fields. |  |
-| 2.4 | Given an example of a page layout, determine what is content versus a block. |  |
-| 2.5 | Demonstrate an ability to troubleshoot problems related to content, configuration and maintenance. |  |
-| **3** | **Content modeling** | \*\*\*\* |
-| 3.1 | Demonstrate ability to model content using content types and vocabularies. |  |
-| 3.2 | Demonstrate ability to configure and manage comment types and comments. |  |
-| 3.3 | Demonstrate ability to configure and manage block types and blocks. |  |
-| 3.4 | Demonstrate ability to configure and manage contact forms. |  |
-| 3.5 | Demonstrate ability to configure and use multilingual content and interface. |  |
-| 3.6 | Demonstrate ability to configure and manage menus, menu items and menu blocks. |  |
-| **4** | **Site Display** |  |
-| 4.1 | Demonstrate the ability to control the display of content across various regions of the site using the block system. |  |
-| 4.2 | Demonstrate the ability to provide different presentations of content entities \(like nodes, comments, user profiles, terms, etc.\) for editing or viewing. |  |
-| 4.3 | Demonstrate the ability to to create, manage and display lists of content using Drupal views. |  |
-| **5** | **Site configuration** |  |
-| 5.1 | Demonstrate the ability to use the various options related to site configuration like account settings, content authoring, development, search, site and system settings, media. |  |
-| 5.2 | Demonstrate the ability to use the configuration and synchronization options to import, export, compare configuration across environments. |  |
-| **6** | **Community and contributed projects** |  |
-| 6.1 | Given a scenario, identify when a contributed module would be needed. |  |
-| 6.2 | Given example project data, evaluate the health of projects. |  |
-| 6.3 | Identify ways of community participation. |  |
-| 6.4 | Demonstrate knowledge of how to report issues against either core or contributed modules. |  |
-| **7** | **Module and theme management** |  |
-| 7.1 | Demonstrate the ability to add, update, and remove contributed modules. |  |
-| 7.2 | Demonstrate the ability to add, update, and remove contributed themes. |  |
-| **8** | **Security and performance** |  |
-| 8.1 | Identify security issues resulting from site configuration. |  |
-| 8.2 | Identify performance issues resulting from site configuration. |  |
+| 1.1 | Demonstrate the ability to explain the distinct and differentiating features of Drupal and understanding of Drupal Terminology |  |
+| 1.2 | Given an example of a page layout, determine what is content versus a block |  |
+| 1.3 | Demonstrate an ability to troubleshoot problems related to content, configuration and maintenance |  |
+| **2** | **Content modeling** |  |
+| 2.1 | Demonstrate ability to model content using content types and vocabularies. |  |
+| 2.2 | Demonstrate ability to configure and manage comment types and comments. |  |
+| 2.3 | Demonstrate ability to configure and manage block types and blocks. |  |
+| 2.4 | Demonstrate ability to configure and manage contact forms. |  |
+| 2.5 | Demonstrate ability to configure and use multilingual content and interface. |  |
+| 2.6 | Demonstrate ability to configure and manage menus, menu items and menu blocks. |  |
+| 2.7 | Demonstrate the ability to configure and use Rich media in content using Media module |  |
+| **3** | **Site Display** |  |
+| 3.1 | Demonstrate the ability to control the display of content across various regions of the site using the block system. |  |
+| 3.2 | Demonstrate the ability to provide different presentations of content entities \(like nodes, comments, user profiles, terms, etc.\) for editing or viewing. |  |
+| 3.3 | Demonstrate the ability to to create, manage and display lists of content using Drupal views. |  |
+| 3.4 | Demonstrate the ability to build layouts of content using Layout Builder |  |
+| **4** | **Site configuration** |  |
+| 4.1 | Demonstrate the ability to use the various options related to site configuration like account settings, content authoring, development, search, site and system settings, media. |  |
+| 4.2 | Demonstrate the ability to use the configuration and synchronization options to import, export, compare configuration across environments. |  |
+| 4.3 | Given a scenario, demonstrate the ability to configure user accounts |  |
+| **5** | **Contributed Module and theme management** |  |
+| 5.1 | Demonstrate the ability to add, update, and remove contributed modules. |  |
+| 5.2 | Demonstrate the ability to add, update, and remove contributed themes. |  |
+| 5.3 | Identify ways of community participation and reporting issues |  |
+| **6** | **Security and performance** |  |
+| 6.1 | Identify security issues resulting from site configuration. |  |
+| 6.2 | Identify performance issues resulting from site configuration. |  |
 
 Next we can look at how you can prepare, and what resources are available.
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](.gitbook/assets/main-page-footer.png)
 
