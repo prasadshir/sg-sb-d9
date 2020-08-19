@@ -33,5 +33,5 @@ Reading through long lists of documentation or books is not sufficient for answe
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
 

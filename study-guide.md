@@ -144,15 +144,13 @@ The application of Drupal 8 concepts is the hands-on practice of site building. 
 
 ## Acquia Academy YouTube Resources
 
-#### Drupal 8 Beginner's Course : 
+#### Drupal 8 Beginner's Course :
 
-{% embed url="https://www.youtube.com/playlist?list=PLpVC00PAQQxHzlDeQvCNDKkyKRV1G3\_vT" %}
+{% embed url="https://www.youtube.com/playlist?list=PLpVC00PAQQxHzlDeQvCNDKkyKRV1G3\_vT" caption="" %}
 
 #### Drupal 8 Site Builder Course :
 
-{% embed url="https://www.youtube.com/playlist?list=PLpVC00PAQQxGwyvUD\_tYcBbLJqRC1CZ6U" %}
-
-
+{% embed url="https://www.youtube.com/playlist?list=PLpVC00PAQQxGwyvUD\_tYcBbLJqRC1CZ6U" caption="" %}
 
 ## Drupalize.me Resources
 
@@ -162,5 +160,5 @@ Drupalize.me has published a concise list of the Drupalize.Me tutorials and othe
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
 

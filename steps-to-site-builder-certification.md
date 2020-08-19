@@ -1,6 +1,6 @@
 # Steps to Site Builder Certification
 
-![](.gitbook/assets/Site-Builder-Steps.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Site-Builder-Steps.png)
 
 **Newcomer :** You are absolutely new to Drupal
 
@@ -36,7 +36,7 @@ You can access these courses for free and review them as many times as you like.
 
 Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture.Those with more exposure to Drupal 8 concepts, or with demonstrated development experience with Drupal 7, may skip the D8 100-level courses.
 
-![](.gitbook/assets/developer-learning-paths.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/developer-learning-paths.png)
 
 ## Gain Practical Experience
 
@@ -56,5 +56,5 @@ At this stage, you should be ready to take the exam! Follow the 'Schedule A Test
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
 

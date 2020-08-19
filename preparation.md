@@ -22,7 +22,7 @@ Courses follow a model of 100-level for introductory material, 200-level for app
 
 We also include a list of online resources and documentation for each learning domain in the We also list of online resources and documentation for each learning domain in the [Study Guide Section](study-guide.md) of this document.
 
-![](.gitbook/assets/developer-learning-paths.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/developer-learning-paths.png)
 
 ## 2. Labs and Case Studies
 
@@ -52,5 +52,5 @@ Review several \(3 to 5\) Drupal 8 projects that you or your team has worked on 
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
 

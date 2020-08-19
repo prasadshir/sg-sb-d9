@@ -12,11 +12,11 @@
 | 8.0 Security and Performance | 4 |
 | **TOTAL** | **50** |
 
-![](.gitbook/assets/Site-Builder-Breakup.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Site-Builder-Breakup.png)
 
-_**Note:**  This exam blueprint includes topics, domains, and test objectives to help guide the test taker. It should not be construed as a comprehensive listing of all of the content of this examination._
+_**Note:** This exam blueprint includes topics, domains, and test objectives to help guide the test taker. It should not be construed as a comprehensive listing of all of the content of this examination._
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
 

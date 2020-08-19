@@ -2,7 +2,7 @@
 
 Experienced Drupalers will likely be more aware of their weaknesses than their strengths. You might have judged your own skill levels while reading through the eight domains listed above. It is quite natural for you to be more experienced and proficient in one domain than another. Also, within a domain, it is likely that you have hands-on experience on some topics but have never touched other areas within the same domain.
 
-### How to Use Self Assessment
+## How to Use Self Assessment
 
 We suggest you perform a skills and expertise self-analysis with respect to the domains and topics listed in the blueprint. The blueprint lists test objectives \(topics\) for each domain. Rank your skills on a scale of 0 to 10 against each test objective \(0 for absolutely zero knowledge or exposure and 10 for complete mastery\).
 
@@ -12,11 +12,11 @@ We suggest you perform a skills and expertise self-analysis with respect to the 
 
 You may use the following table to carry out your self-evaluation.
 
-### Acquia Certified Drupal 8 Site Builder Self-Assessment Table
+## Acquia Certified Drupal 8 Site Builder Self-Assessment Table
 
 | Domain | Topic | Your Score \(1-10\) |
 | :--- | :--- | :--- |
-|  **1** | **Understanding Drupal** |  |
+| **1** | **Understanding Drupal** |  |
 | 1.1 | Demonstrate the ability to explain the distinct and differentiating features of Drupal. |  |
 | 1.2 | Demonstrate the understanding of Drupal jargon and terminology. |  |
 | **2** | **Working with a Drupal site** | \*\*\*\* |
@@ -55,5 +55,5 @@ Next we can look at how you can prepare, and what resources are available.
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
 
