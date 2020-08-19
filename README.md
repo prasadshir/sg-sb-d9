@@ -1,4 +1,4 @@
-# Study Guide: Acquia Certified Drupal 9 Site Builder Exam
+# Study Guide: Acquia Certified Drupal Site Builder Exam
 
 **This is the study guide for the** [**Acquia Certified Drupal 9 Site Builder Examination**](https://www.acquia.com/solutions/customer-success/acquia-certification)**.**
 
@@ -8,7 +8,7 @@ You'll find helpful steps to prepare for the exam as well as links to further re
 
 ```text
 
-Date Published: Aug 20, 2020
+Date Published: Aug 19, 2020
 Author: Prasad Shirgaonkar, Global Certification Program Manager, Acquia
 ```
 
