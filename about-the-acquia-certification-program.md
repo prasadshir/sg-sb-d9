@@ -34,7 +34,7 @@ Acquia offers technical Certification in Drupal 7 and Drupal 8, in four competen
 
 ## Certification Path
 
-This diagram shows the receommended progression through exam depedning on level of Drupal experience. _Applies to both Drupal 7 and 8 series of exams._ 
+This diagram shows the recommended progression through exam depending on level of Drupal experience. _Applies to both Drupal 7 and 8 series of exams._
 
 ![](.gitbook/assets/Cert-Program-Overview.png)
 
