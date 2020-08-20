@@ -1,6 +1,6 @@
 # Study Guide
 
-## Study Guide
+## Drupal User Guide
 
 | Check out the new [**Drupal User Guide**](https://www.drupal.org/docs/user_guide/en/index.html) for understanding key concepts |
 | :--- |
