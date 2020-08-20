@@ -143,5 +143,5 @@ Drupalize.me has published a concise list of the Drupalize.Me tutorials and othe
 
 > Learn more about the Acquia Certification Program at [https://acquia.com/certification](https://acquia.com/certification)
 
-![](https://github.com/prasadshir/sg-sb-d9/tree/2d1ced1529fa41dd313f67d126078b3ade382266/.gitbook/assets/Screenshot%202016-12-14%2013.19.32.png)
+![](.gitbook/assets/main-page-footer.png)
 
