@@ -10,65 +10,57 @@
 
 The application of Drupal 8 concepts is the hands-on practice of site building. The courses provide some opportunity to practice doing the tasks of site building alongside the videos, but you will need a little more practice than that to pass the exam. Some suggested resources are below, to give you a better understanding of the role of site builder.
 
-* Webinar: [10 Things Site Builders Need to Know Before Leaping into Drupal 8](https://www.acquia.com/resources/webinars/10-things-site-builders-need-know-leaping-drupal-8)
+* Webinar: [10 Things Site Builders Need to Know Before Leaping into Drupal ](https://www.acquia.com/resources/webinars/10-things-site-builders-need-know-leaping-drupal-8)
 
-#### 1. Understanding Drupal
+#### 1. Understanding Drupal & Working with a Drupal Site
 
 1.1. Demonstrate the ability to explain the distinct and differentiating features of Drupal.
 
-1.2. Demonstrate the understanding of Drupal jargon and terminology
+1.2 Given an example of a page layout, determine what is content versus a block.
 
 | Understanding Drupal | [https://www.drupal.org/docs/understanding-drupal](https://www.drupal.org/docs/understanding-drupal) |
 | :--- | :--- |
-| Drupal Version Numbers | [https://www.drupal.org/docs/8/understanding-drupal-version-numbers](https://www.drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers) |
-| Drupal System Requirements | [https://www.drupal.org/docs/8/system-requirements](https://www.drupal.org/docs/8/system-requirements) |
+| Drupal Version Numbers | [https://www.drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers](https://www.drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers) |
+| Drupal System Requirements | [https://www.drupal.org/docs/system-requirements](https://www.drupal.org/docs/system-requirements) |
 | Drupal General Concepts | [https://www.drupal.org/node/19828](https://www.drupal.org/node/19828) |
+| Administering a Drupal Site | [https://www.drupal.org/docs/administering-a-drupal-site/getting-started-with-drupal-administration](https://www.drupal.org/docs/administering-a-drupal-site/getting-started-with-drupal-administration) |
+| Managing Content on a Drupal Site | [https://www.drupal.org/docs/administering-a-drupal-site/managing-content](https://www.drupal.org/docs/administering-a-drupal-site/managing-content) |
 
-#### 2. Working with a Drupal Site
+#### 2. Content Modeling
 
-2.1. Given a scenario, determine how administration tools are used for site management.
+2.1. Demonstrate ability to model content using Content Types and Vocabularies
 
-2.2. Given a scenario, demonstrate ability to configure user accounts.
+2.2. Demonstrate ability to configure and manage comment types and comments
 
-2.3. Given a scenario of a completed content item, identify which elements are taxonomy terms, image fields or text fields.
+2.3. Demonstrate ability to configure and manage block types and blocks
 
-2.4. Given an example of a page layout, determine what is content versus a block.
+2.4. Demonstrate ability to configure and manage Contact forms
 
-2.5. Demonstrate an ability to troubleshoot problems related to content, configuration and maintenance
+2.5. Demonstrate ability to configure and use multilingual content and interface
 
-| Administering a Drupal Site | [https://www.drupal.org/docs/8/administering-drupal-8-site/getting-started-with-drupal-8-administration](https://www.drupal.org/docs/8/administering-drupal-8-site/getting-started-with-drupal-8-administration) |
+2.6. Demonstrate ability to configure and manage menus, menu items and menu blocks
+
+2.7 Demonstrate the ability to configure and use Rich media in content using Media module
+
+|  |  |
 | :--- | :--- |
-| Managing Content on a Drupal Site | [https://www.drupal.org/docs/8/administering-drupal-8-site/managing-content](https://www.drupal.org/docs/8/administering-drupal-8-site/managing-content) |
-
-#### 3. Content Modeling
-
-3.1. Demonstrate ability to model content using Content Types and Vocabularies
-
-3.2. Demonstrate ability to configure and manage comment types and comments
-
-3.3. Demonstrate ability to configure and manage block types and blocks
-
-3.4. Demonstrate ability to configure and manage Contact forms
-
-3.5. Demonstrate ability to configure and use multilingual content and interface
-
-3.6. Demonstrate ability to configure and manage menus, menu items and menu blocks
-
-| Nodes, Content types and Fields \(Documentation for D7, still valid for D8\) | [https://www.drupal.org/docs/7/nodes-content-types-and-fields](https://www.drupal.org/docs/7/nodes-content-types-and-fields) |
-| :--- | :--- |
+| Planning Data Types | [https://www.drupal.org/docs/user\_guide/en/planning-data-types.html](https://www.drupal.org/docs/user_guide/en/planning-data-types.html) |
+| Planning Content Structure | [https://www.drupal.org/docs/user\_guide/en/planning-structure.html](https://www.drupal.org/docs/user_guide/en/planning-structure.html)  |
 | Content Types | [https://www.drupal.org/docs/user\_guide/en/content-structure-chapter.html](https://www.drupal.org/docs/user_guide/en/content-structure-chapter.html) |
+| Blocks | [https://www.drupal.org/docs/user\_guide/en/block-concept.html](https://www.drupal.org/docs/user_guide/en/block-concept.html) |
 | Contact module documentation | [https://www.drupal.org/documentation/modules/contact](https://www.drupal.org/documentation/modules/contact) |
-| Drupal 8 Multilingual Guide | [https://www.drupal.org/docs/8/multilingual](https://www.drupal.org/docs/8/multilingual) |
+| Drupal Multilingual Guide | [https://www.drupal.org/docs/multilingual-guide](https://www.drupal.org/docs/multilingual-guide) |
 | Working with Menus | [https://www.drupal.org/docs/user\_guide/en/menu-concept.html](https://www.drupal.org/docs/user_guide/en/menu-concept.html) |
-| New field types in Core | [https://www.ostraining.com/blog/drupal/new-fields/](https://www.ostraining.com/blog/drupal/new-fields/) |
+| Setting up Content Structure | [https://www.drupal.org/docs/user\_guide/en/content-structure-chapter.html](https://www.drupal.org/docs/user_guide/en/content-structure-chapter.html) |
+| Media Module | [https://www.drupal.org/docs/8/core/modules/media](https://www.drupal.org/docs/8/core/modules/media) |
 
-#### 4. Site Display
+#### 3. Site Display
 
-4.1. Demonstrate the ability to control the display of content across various regions of the site using the block system.
+3.1. Demonstrate the ability to control the display of content across various regions of the site using the block system.
 
-4.2. Demonstrate the ability to provide different presentations of Content Entities \(like Nodes, Comments, User Profiles, Terms etc\) for editing or viewing
+3.2. Demonstrate the ability to provide different presentations of Content Entities \(like Nodes, Comments, User Profiles, Terms etc\) for editing or viewing
 
-4.3. Demonstrate the ability to to create, manage and display lists of content using Drupal Views.
+3.3. Demonstrate the ability to to create, manage and display lists of content using Drupal Views.
 
 | Views User Guide | [https://www.drupal.org/docs/user\_guide/en/views-chapter.html](https://www.drupal.org/docs/user_guide/en/views-chapter.html) |
 | :--- | :--- |
