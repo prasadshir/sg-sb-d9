@@ -8,7 +8,7 @@
 
 **Practice Skills Application**
 
-The application of Drupal 8 concepts is the hands-on practice of site building. The courses provide some opportunity to practice doing the tasks of site building alongside the videos, but you will need a little more practice than that to pass the exam. Some suggested resources are below, to give you a better understanding of the role of site builder.
+The application of Drupal concepts is the hands-on practice of site building. The courses provide some opportunity to practice doing the tasks of site building alongside the videos, but you will need a little more practice than that to pass the exam. Some suggested resources are below, to give you a better understanding of the role of site builder.
 
 * Webinar: [10 Things Site Builders Need to Know Before Leaping into Drupal ](https://www.acquia.com/resources/webinars/10-things-site-builders-need-know-leaping-drupal-8)
 
@@ -18,8 +18,11 @@ The application of Drupal 8 concepts is the hands-on practice of site building. 
 
 1.2 Given an example of a page layout, determine what is content versus a block.
 
-| Understanding Drupal | [https://www.drupal.org/docs/understanding-drupal](https://www.drupal.org/docs/understanding-drupal) |
+1.3 Demonstrate an ability to troubleshoot problems related to content, configuration and maintenance
+
+| Topic | Link |
 | :--- | :--- |
+| Understanding Drupal | [https://www.drupal.org/docs/understanding-drupal](https://www.drupal.org/docs/understanding-drupal) |
 | Drupal Version Numbers | [https://www.drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers](https://www.drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers) |
 | Drupal System Requirements | [https://www.drupal.org/docs/system-requirements](https://www.drupal.org/docs/system-requirements) |
 | Drupal General Concepts | [https://www.drupal.org/node/19828](https://www.drupal.org/node/19828) |
@@ -42,7 +45,7 @@ The application of Drupal 8 concepts is the hands-on practice of site building. 
 
 2.7 Demonstrate the ability to configure and use Rich media in content using Media module
 
-|  |  |
+| Topic | Link |
 | :--- | :--- |
 | Planning Data Types | [https://www.drupal.org/docs/user\_guide/en/planning-data-types.html](https://www.drupal.org/docs/user_guide/en/planning-data-types.html) |
 | Planning Content Structure | [https://www.drupal.org/docs/user\_guide/en/planning-structure.html](https://www.drupal.org/docs/user_guide/en/planning-structure.html)  |
@@ -62,58 +65,54 @@ The application of Drupal 8 concepts is the hands-on practice of site building. 
 
 3.3. Demonstrate the ability to to create, manage and display lists of content using Drupal Views.
 
-| Views User Guide | [https://www.drupal.org/docs/user\_guide/en/views-chapter.html](https://www.drupal.org/docs/user_guide/en/views-chapter.html) |
+3.4 Demonstrate the ability to build layouts of content using Layout Builder
+
+| Topic | Link |
 | :--- | :--- |
+| Views User Guide | [https://www.drupal.org/docs/user\_guide/en/views-chapter.html](https://www.drupal.org/docs/user_guide/en/views-chapter.html) |
 | Working with Views | [https://www.drupal.org/documentation/modules/views](https://www.drupal.org/documentation/modules/views) |
 | Working with blocks | [https://www.drupal.org/docs/user\_guide/en/blocks-chapter.html](https://www.drupal.org/docs/user_guide/en/blocks-chapter.html) |
-| Comment Types | [https://www.ostraining.com/blog/drupal/d8-comemnts/](https://www.ostraining.com/blog/drupal/d8-comemnts/) |
-| New Block system in D8 | [https://drupalize.me/blog/201403/block-system-finally-useful-drupal-8](https://drupalize.me/blog/201403/block-system-finally-useful-drupal-8) |
+| Layout Builder | [https://www.drupal.org/docs/8/core/modules/layout-builder](https://www.drupal.org/docs/8/core/modules/layout-builder) |
 
-#### 5. Site Configuration
+#### 4. Site Configuration
 
-5.1. Demonstrate the ability to use the various options related to site configuration like account settings, content authoring, development, search, site and system settings, media.
+4.1. Demonstrate the ability to use the various options related to site configuration like account settings, content authoring, development, search, site and system settings, media.
 
-5.2. Demonstrate the ability to use the Configuration and Synchronization options to import, export, compare configuration across environments.
+4.2. Demonstrate the ability to use the Configuration and Synchronization options to import, export, compare configuration across environments.
 
-| Managing your site configuration | [https://www.drupal.org/docs/8/configuration-management/managing-your-sites-configuration](https://www.drupal.org/docs/8/configuration-management/managing-your-sites-configuration) |
+4.3 Given a scenario, demonstrate the ability to configure user accounts
+
+| Topic | Link |
 | :--- | :--- |
+| Managing your site configuration | [https://www.drupal.org/docs/configuration-management/managing-your-sites-configuration](https://www.drupal.org/docs/configuration-management/managing-your-sites-configuration) |
+| Managing User Accounts | [https://www.drupal.org/docs/user\_guide/en/user-chapter.html](https://www.drupal.org/docs/user_guide/en/user-chapter.html)  |
 
+#### 5. Module and Theme management
 
-#### 6. Community and Contributed Projects
+5.1. Demonstrate the ability to add, update, and remove contributed modules
 
-6.1. Given a scenario, identify when a contributed module would be needed.
+5.2. Demonstrate the ability to add, update, and remove contributed themes
 
-6.2. Given example project data, evaluate the health of projects.
+5.3 Identify ways of community participation and reporting issues
 
-6.3. Identify ways of community participation.
-
-6.4. Demonstrate knowledge of how to report issues against either core or contributed modules.
-
-| Extending Drupal | [https://www.drupal.org/docs/8/extending-drupal-8](https://www.drupal.org/docs/8/extending-drupal-8) |
+| Topic | Link |
 | :--- | :--- |
-| Finding and installing a contributed module | [https://www.drupal.org/docs/8/extending-drupal-8/installing-contributed-modules-find-import-enable-configure-drupal-8](https://www.drupal.org/docs/8/extending-drupal-8/installing-contributed-modules-find-import-enable-configure-drupal-8) |
+| Finding and installing a contributed module | [https://www.drupal.org/docs/extending-drupal/installing-modules](https://www.drupal.org/docs/extending-drupal/installing-modules) |
+| Extending Drupal | [https://www.drupal.org/docs/extending-drupal](https://www.drupal.org/docs/extending-drupal) |
+| Installing themes | [https://www.drupal.org/docs/extending-drupal/installing-themes](https://www.drupal.org/docs/extending-drupal/installing-themes) |
 | Evaluating a contrib module | [https://dev.acquia.com/blog/how-select-drupal-modules-part-3-evaluation-tips](https://dev.acquia.com/blog/how-select-drupal-modules-part-3-evaluation-tips) |
 | Ways of community contribution | [https://www.drupal.org/contribute](https://www.drupal.org/contribute) |
 | Reporting a problem | [https://www.drupal.org/node/314185](https://www.drupal.org/node/314185) |
 
-#### 7. Module and Theme management
+#### 6. Security & Performance
 
-7.1. Demonstrate the ability to add, update, and remove contributed modules
+6.1. Identify security issues resulting from site configuration
 
-7.2. Demonstrate the ability to add, update, and remove contributed themes
+6.2. Identify performance issues resulting from site configuration
 
-| Finding and installing a contributed module | [https://www.drupal.org/docs/8/extending-drupal-8/installing-contributed-modules-find-import-enable-configure-drupal-8](https://www.drupal.org/docs/8/extending-drupal-8/installing-contributed-modules-find-import-enable-configure-drupal-8) |
+| Topic | Link |
 | :--- | :--- |
-| Installing themes | [https://www.drupal.org/docs/8/extending-drupal-8/installing-themes](https://www.drupal.org/docs/8/extending-drupal-8/installing-themes) |
-
-#### 8. Security & Performance
-
-8.1. Identify security issues resulting from site configuration
-
-8.2. Identify performance issues resulting from site configuration
-
-| Secure configurations for Site Builders | [https://www.drupal.org/docs/8/security/secure-configuration-for-site-builders](https://www.drupal.org/docs/8/security/secure-configuration-for-site-builders) |
-| :--- | :--- |
+| Secure configurations for Site Builders | [https://www.drupal.org/docs/security-in-drupal/secure-configuration-for-site-builders](https://www.drupal.org/docs/security-in-drupal/secure-configuration-for-site-builders) |
 | Drupal Performance improvements | [https://docs.acquia.com/acquia-cloud/performance/](https://docs.acquia.com/acquia-cloud/performance/) |
 |  | [https://docs.acquia.com/acquia-cloud/performance/\#cloud-perf-drupal-core](https://docs.acquia.com/acquia-cloud/performance/#cloud-perf-drupal-core) |
 
