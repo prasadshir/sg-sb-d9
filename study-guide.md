@@ -6,11 +6,7 @@
 | :--- |
 
 
-**Practice Skills Application**
-
-The application of Drupal concepts is the hands-on practice of site building. The courses provide some opportunity to practice doing the tasks of site building alongside the videos, but you will need a little more practice than that to pass the exam. Some suggested resources are below, to give you a better understanding of the role of site builder.
-
-* Webinar: [10 Things Site Builders Need to Know Before Leaping into Drupal ](https://www.acquia.com/resources/webinars/10-things-site-builders-need-know-leaping-drupal-8)
+### **Topic-wise Study Reference Material**
 
 #### 1. Understanding Drupal & Working with a Drupal Site
 
