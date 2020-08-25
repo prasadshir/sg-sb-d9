@@ -20,6 +20,8 @@ As a Newcomer to Drupal, take introductory courses in Acquia Academy. We have th
 
 After taking the courses, build a small website on your own to reinforce the concepts learned in the courses.
 
+_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
+
 ## Take Acquia Academy 200 Level Courses
 
 For the Site Builder path, the next step is to take a intermediate Level course in Acquia Academy.
@@ -33,6 +35,8 @@ You can access Drupal preparatory courses on Acquia Academy, which you can find 
 [https://acquiacademy.com/](https://acquiacademy.com/)
 
 You can access these courses for free and review them as many times as you like. Many of Acquia Academy courses are available, and if you are in an Acquia enablement or training program, you have been assigned the courses you most require to obtain an initial certification.
+
+_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
 
 ## Gain Practical Experience
 

@@ -16,6 +16,8 @@ A list of courses on Acquia Academy can be found at: [https://training.acquia.co
 3. Extending and Managing a Drupal 8 Site \(Introductory Level\)
 4. Building Websites with Drupal 8 \(Intermediate Level\)
 
+_\(Note: as Drupal 8 and 9 are very similar in architecture and concepts, you may start with the latest of the Drupal 8 or Drupal 9 courses from Acquia Academy\)_
+
 You can access these courses for free, and review them as many times as you like. Many Acquia Academy courses are available, and if you are in an Acquia enablement or training program, you have been assigned the courses required to obtain an initial certification.
 
 Courses follow a model of 100-level for introductory material, 200-level for application of the concepts, 300-level for advanced concepts, and 400-level for solution architecture. Those with more exposure to Drupal 8 concepts, or with demonstrated site building experience with Drupal 7, may skip the D8 100-level courses.
